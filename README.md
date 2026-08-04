@@ -13,7 +13,7 @@ Web recon and Cryptography tools "Commands".
 To deploy these Tools run
 
 ```bash
-  git clone https://github.com/realworldsec/Tooli.git
+  git clone https://github.com/disassembles/tool.git
   
   cd Tooli
   python Web.py
