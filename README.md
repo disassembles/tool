@@ -1,5 +1,5 @@
 
-#   Tooli
+#   tool
 
 This is a tool build in python script . It contains .
 Web recon and Cryptography tools "Commands".
